@@ -1,5 +1,11 @@
 {
-  "name": "backend",
+  "name": "Vengeance-Alliance-backend",
+	"description": "Store all insults that you received to revenge",
+	"author": {
+		"name": "Jo Phan",
+		"email": "phantranh2206@gmail.com",
+		"url": "https://github.com/VerySeriousHireableAccount"
+	},
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
